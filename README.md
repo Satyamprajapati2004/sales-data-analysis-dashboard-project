@@ -12,6 +12,12 @@ Analyzed 10,000+ sales records to identify revenue trends and business insights 
 * Power BI
 * Git & GitHub
 
+
+## Dashboard Preview
+
+![Dashboard](images/Dashboard.png)
+
+
 ## Project Workflow
 
 1. Data Cleaning using Python
