@@ -53,7 +53,27 @@ Power BI dashboard includes:
 * Product Category Distribution
 # sales-data-analysis-dashboard-project
 
+
+
+
+
+
+
+
+
+
+
+
+
 Final GitHub Structure
+
+
+
+
+
+
+
+
 Sales-Project/
 │
 ├── data/
