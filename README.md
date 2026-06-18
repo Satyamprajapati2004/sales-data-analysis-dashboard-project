@@ -14,7 +14,7 @@ Analyzed 10,000+ sales records to identify revenue trends and business insights 
 
 
 ## Dashboard Preview
-![Dashboard](images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 ## Project Workflow
